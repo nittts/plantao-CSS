@@ -1,0 +1,8 @@
+.shelf {
+    display: flex;
+    flex-direction: row;
+}
+
+.box { }
+
+.box:hover { }
